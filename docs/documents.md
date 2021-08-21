@@ -9,5 +9,13 @@
 ## Git
 1. [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 
+## QT5
+
+## Parallel 
+1. [并行和并发的区别](https://www.cnblogs.com/xc-chejj/p/10813692.html)
+
+## Others
+1. [Markdown tutorial](https://markdown.com.cn/basic-syntax/links.html)
+
 ## Further reading
 1. [Connecting to a unicode-mode Helix server](https://www.perforce.com/manuals/p4v/Content/P4V/using.connecting.html#Connecting_to_Helix_server)
