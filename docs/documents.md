@@ -10,6 +10,10 @@
 1. [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 
 ## QT5
+1. [Qt for Python](https://doc.qt.io/qtforpython/quickstart.html)
+2. [Qt blog: Qt for Python 6 released](https://www.qt.io/blog/qt-for-python-6-released)
+3. [PyQt](https://www.riverbankcomputing.com/software/pyqt/)
+4. [PyQt6 vs PySide6](https://www.pythonguis.com/faq/pyqt6-vs-pyside6/ "they are 99.9% identical")
 
 ## Parallel 
 1. [并行和并发的区别](https://www.cnblogs.com/xc-chejj/p/10813692.html)
